@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5553'
     url: http://www.gutenberg.org/2009/agents/5553
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14503#A-Paranoia
 gutenberg_issued: '2004-12-28'
 gutenberg_type: Text
 identifiers:
