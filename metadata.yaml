@@ -1,0 +1,29 @@
+_repo: A-Paranoia_14503
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Matos, Júlio de
+    aliases:
+    - Mattos, Julio de
+    - Matos, Julio de
+    birthdate: 1857
+    deathdate: 1923
+    gutenberg_agent_id: '5553'
+    url: http://www.gutenberg.org/2009/agents/5553
+description: ''
+gutenberg_issued: '2004-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14503'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Paranoia'
+title: A Paranoia
+url: http://www.gutenberg.org/ebooks/14503
